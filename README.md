@@ -1,4 +1,8 @@
-[![Build Status](https://travis-ci.org/reportportal/client-javascript.svg?branch=master)](https://travis-ci.org/reportportal/client-javascript)[![Code Coverage](https://codecov.io/gh/reportportal/client-javascript/branch/master/graph/badge.svg)](https://codecov.io/gh/reportportal/client-javascript)[![npm version](https://badge.fury.io/js/reportportal-client.svg)](https://badge.fury.io/js/reportportal-client)
+![Publish Package](https://github.com/comeon-stockholm/client-javascript/workflows/Publish%20Package/badge.svg?branch=master)
+
+# Modified Reportportal client for Comeon Internal Use. 
+
+We invite open source contributions to this and also allow people to reuse it if it fits your use case.
 
 # ReportPortal js client
 This Client is to communicate with the Report Portal on node js.
