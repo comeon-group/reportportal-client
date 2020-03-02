@@ -4,6 +4,14 @@
   "description": "ReportPortal client for node.js",
   "contributors": [
     {
+      "name": "Velu S Gautam",
+      "email": "i@velusgautam.com"
+    },
+    {
+      "name": "Roshith CK",
+      "email": "roshith.chiminiyan@comeon.com"
+    },
+    {
       "name": "Artsiom Tkachou",
       "email": "artsiom_tkachou@epam.com"
     },
@@ -12,10 +20,10 @@
       "email": "lexecon117@gmail.com"
     }
   ],
-  "homepage": "https://github.com/reportportal/client-javascript",
+  "homepage": "https://github.com/comeon-stockholm/client-javascript",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reportportal/client-javascript.git"
+    "url": "https://github.com/comeon-stockholm/client-javascript.git"
   },
   "directories": {
     "lib": "./lib"
